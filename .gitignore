@@ -1,0 +1,14 @@
+raw/
+trimmed/
+alignments/
+downloaded_files/
+bbmap_index_fixed/
+ref/
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.fa
+*.fa.gz
+*.out
